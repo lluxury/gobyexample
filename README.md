@@ -1,5 +1,5 @@
 ## Go by Example
-好像是go语言的实例
+好像是go语言的实例,注释很详细
 
 Content and build toolchain for [Go by Example](https://gobyexample.com),
 a site that teaches Go via annotated example programs.
